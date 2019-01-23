@@ -47,7 +47,7 @@
 <img src ="img/newStaff.jpg" width = 600>
 </p>
 
-## 系統L頁面
+## 系統Log
 <p align="center">
 <img src ="img/Log.jpg" width = 600>
 </p>
