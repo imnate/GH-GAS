@@ -24,30 +24,30 @@
         }
 ## 掃描頁面
 <p align="center">
-<img src ="img/scanner.jpg" width = 400>
+<img src ="img/scanner.jpg" width = 600>
 </p>
 
 ## 掃描頁面
 <p align="center">
-<img src ="img/Staffinfo.jpg" width = 400>
+<img src ="img/Staffinfo.jpg" width = 600>
 </p>
 
 ## 出入記錄查詢頁面
 <p align="center">
-<img src ="img/Enter&Exit.jpg" width = 400>
+<img src ="img/Enter&Exit.jpg" width = 600>
 </p>
 
 ## 員工資料管理頁面
 <p align="center">
-<img src ="img/StaffinfoM.jpg" width = 400>
+<img src ="img/StaffinfoM.jpg" width = 600>
 </p>
 
 ## 員工資料新增頁面
 <p align="center">
-<img src ="img/newStaff.jpg" width = 400>
+<img src ="img/newStaff.jpg" width = 600>
 </p>
 
 ## 系統L頁面
 <p align="center">
-<img src ="img/Log.jpg" width = 400>
+<img src ="img/Log.jpg" width = 600>
 </p>
