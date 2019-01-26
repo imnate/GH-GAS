@@ -27,6 +27,7 @@
             return BitConverter.ToString(desencrypt.TransformFinalBlock(s, 0, s.Length)).Replace("-", string.Empty);
 
         }
+        
 ## 掃描頁面
 <p align="center">
 <img src ="img/scanner.jpg" width = 600>
