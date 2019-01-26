@@ -3,9 +3,14 @@
 
 ### 主要功能
          QR Code掃描記錄進出人員資料　
+         管理進出人員歷史資料
+         
+### 語言
+         C#
          
 ### 套件
          QR Code -> ZXING 
+         OpenCV
          
 ### DES加密法加密身分證字號 
         private string Encode(string encode)//DES加密
